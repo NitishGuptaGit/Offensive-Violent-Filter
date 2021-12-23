@@ -1,0 +1,74 @@
+6: Madarchod congresi or Bjp dono ki sarkar bani baad me wade bhul gye.
+['madarchod' 'congresi' 'bjp' 'dono' 'ki' 'sarkar' 'bani' 'baad' 'wade'
+ 'bhul' 'gye']
+[1 0 0 0 0 0 0 0 0 0 0]
+Message may not be hatespeech
+
+
+12: Teri Ammi k sath first inning Virat khela tha, tb tu paida hua, aur tera abbu Abhi us result ka gum mana rha h madarchod.
+['teri' 'ammi' 'k' 'sath' 'first' 'inning' 'virat' 'khela' 'tha' 'tb' 'tu'
+ 'paida' 'hua' 'aur' 'tera' 'abbu' 'abhi' 'us' 'result' 'ka' 'gum' 'mana'
+ 'rha' 'h' 'madarchod']
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1]
+Message may not be hatespeech
+
+
+24: Ladki k papa yaha par logo ko bahenchod bolkar gender equality me apna yogdan de.
+['ladki' 'k' 'papa' 'yaha' 'par' 'logo' 'ko' 'bahenchod' 'bolkar' 'gender'
+ 'equal' 'apna' 'yogdan' 'de']
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+Message may not be hatespeech
+
+
+27: darling kya tum mujhe apna doodh pilaogi.
+['darl' 'kya' 'tum' 'mujh' 'apna' 'doodh' 'pilaogi']
+[0 0 0 0 0 0 0]
+Message may not be hatespeech
+
+
+29: Why getting lots of ad in your Wynk music app. Pure mood ki maabehen kr dete h.
+['get' 'lot' 'ad' 'wynk' 'music' 'app' 'pure' 'mood' 'ki' 'maabehen' 'kr'
+ 'dete' 'h']
+[0 0 0 0 0 0 0 0 0 1 0 0 0]
+Message may not be hatespeech
+
+
+31: Bhai Me Apne Bete Ka Kya Naam Rakhu Jo Sabki Zubaan Pe Rahe.
+['bhai' 'apn' 'bete' 'ka' 'kya' 'naam' 'rakhu' 'jo' 'sabki' 'zubaan' 'pe'
+ 'rahe']
+[0 0 0 1 0 0 0 0 0 0 0 0]
+Message may not be hatespeech
+
+
+33: Are Bhai Apne Bahen Ka Nhi Banaya Kya Uska Bhi Bana Ke Dalna Tha Na Bahenchod Naale Me Paida Hua Kya.
+['bhai' 'apn' 'bahen' 'ka' 'nhi' 'banaya' 'kya' 'uska' 'bhi' 'bana' 'ke'
+ 'dalna' 'tha' 'na' 'bahenchod' 'naal' 'paida' 'hua' 'kya']
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+Message may not be hatespeech
+
+
+38: oye lund ke beej aaj khane mein kya bna hai.
+['oye' 'lund' 'ke' 'beej' 'aaj' 'khane' 'mein' 'kya' 'bna' 'hai']
+[0 1 0 0 0 0 0 0 0 0]
+Message may not be hatespeech
+
+
+41: Hindi nai aati to ma ch***vane aaya he politics me... sala bhadva .. samjate pappu tere perie ko.
+['hindi' 'nai' 'aati' 'ch' 'vane' 'aaya' 'polit' 'sala' 'bhadva' 'samjat'
+ 'pappu' 'tere' 'peri' 'ko']
+[0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+Message may not be hatespeech
+
+
+46:  kaye ko gaali de usko, chodthe Allah ke upar. ye musalmano.
+['kay' 'ko' 'gaali' 'de' 'usko' 'chodth' 'allah' 'ke' 'upar' 'ye'
+ 'musalmano']
+[0 0 1 0 0 0 1 0 0 0 0]
+Message may not be hatespeech
+
+50: naale mein doob jaa, suar kahi kaa.
+['naal' 'mein' 'doob' 'jaa' 'suar' 'kahi' 'kaa']
+[0 0 0 0 1 0 0]
+Message may not be hatespeech
+
+

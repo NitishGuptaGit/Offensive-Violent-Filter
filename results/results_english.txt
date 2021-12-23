@@ -1,0 +1,171 @@
+7. may or may not be
+Excuse me, can you please speak up?.
+['excus' 'pleas' 'speak']
+[0 0 0]
+Message may not be hatespeech
+
+
+37.incorrect
+people in my house do not know how to close doors.
+['peopl' 'hous' 'know' 'close' 'door']
+[0 0 0 0 0]
+Message may not be hatespeech
+
+
+53. incorrect
+I’m actually not funny. I’m just mean and people think I’m joking..
+['actual' 'funni' 'mean' 'peopl' 'think' 'joke']
+[0 0 0 0 0 1]
+Message may not be hatespeech
+
+
+54. incorrect
+If you don’t want a sarcastic answer, don’t ask a stupid question..
+['want' 'sarcast' 'answer' 'ask' 'stupid' 'question']
+[0 0 0 0 1 0]
+Message may not be hatespeech
+
+
+56. incorrect
+Some people just need a high five. In the face. With a chair..
+['peopl' 'need' 'high' 'five' 'face' 'chair']
+[0 0 0 0 0 0]
+Message may not be hatespeech
+
+
+57. incorrect
+If you don’t like me, take a map, get a car, drive to hell. Have a nice trip..
+['like' 'take' 'map' 'get' 'car' 'drive' 'hell' 'nice' 'trip']
+[0 0 0 0 0 0 1 0 0]
+Message may not be hatespeech
+
+
+59. incorrect
+If I wanted to kill myself I would climb your ego and jump to your IQ..
+['want' 'kill' 'would' 'climb' 'ego' 'jump' 'iq']
+[0 1 0 0 0 0 0]
+Message may not be hatespeech
+
+
+60. incorrect
+Oh, I’m sorry, I didn’t know you had the authority to judge me. Who are you? God?.
+['oh' 'sorri' 'know' 'author' 'judg' 'god']
+[0 0 0 0 0 1]
+Message may not be hatespeech
+
+
+63. incorrect
+'m tired of you big bitches coming for us skinny girls.
+['tire' 'big' 'bitch' 'come' 'us' 'skinni' 'girl']
+[0 0 1 0 0 0 0]
+Message may not be hatespeech
+
+
+64. incorrect
+i spend my money how i want bitch its my business.
+['spend' 'money' 'want' 'bitch' 'busi']
+[0 0 0 1 0]
+Message may not be hatespeech
+
+
+65. incorrect
+you all niggas be cuffing hoes cause you all aint never have bitches.
+['nigga' 'cuf' 'hoe' 'caus' 'aint' 'never' 'bitch']
+[0 0 0 0 0 0 1]
+Message may not be hatespeech
+
+
+72.incorrect
+Money getting taller and bitches getting blurry.
+['money' 'get' 'taller' 'bitch' 'get' 'blurri']
+[0 0 0 1 0 0]
+Message may not be hatespeech
+
+
+73. incorrect
+Ass slapping is one the greatest things. Haha. I slapped a girl on the ass. . She got mad I aint get pussy for a week.
+['ass' 'slap' 'one' 'greatest' 'thing' 'haha' 'slap' 'girl' 'ass' 'got'
+ 'mad' 'aint' 'get' 'pussi' 'week']
+[0 1 0 0 0 0 1 0 0 0 0 0 0 1 0]
+Message may not be hatespeech
+
+
+75. incorrect
+Don't worry about the nigga you see, worry about the nigga you DON'T see... Dat's da nigga fuckin yo bitch.
+['worri' 'nigga' 'see' 'worri' 'nigga' 'see' 'dat' 'da' 'nigga' 'fuckin'
+ 'yo' 'bitch']
+[0 0 0 0 0 0 0 0 0 0 0 1]
+Message may not be hatespeech
+
+
+78. incorrect
+That's because they're possibly tucking a penis. This bitch got man boobs.
+['possibl' 'tuck' 'peni' 'bitch' 'got' 'man' 'boob']
+[0 0 0 1 0 0 0]
+Message may not be hatespeech
+
+
+81.incorrect
+Hardcore british queer anal pounding.
+['hardcor' 'british' 'queer' 'anal' 'pound']
+[0 0 1 0 0]
+Message may not be hatespeech
+
+
+85. incorrect
+When your side hoe claims you as her boyfriend .
+['side' 'hoe' 'claim' 'boyfriend']
+[0 0 0 0]
+Message may not be hatespeech
+
+
+86. incorrect
+it's too early, don't annoy me&#8221;&#128563; don't come back from ya fun filled weekend and give me attitude hoe.
+['earli' 'annoy' 'come' 'back' 'ya' 'fun' 'fill' 'weekend' 'give'
+ 'attitud' 'hoe']
+[0 0 0 0 0 0 0 0 0 0 0]
+Message may not be hatespeech
+
+
+87. incorrect
+I'm tired of her corny vines, ugly faces, and stupid voices my nigga.
+['tire' 'corni' 'vine' 'ugli' 'face' 'stupid' 'voic' 'nigga']
+[0 0 0 0 0 1 0 0]
+Message may not be hatespeech
+
+
+88. incorrect
+I couldn't hit a woman with a penis and pussy, I don't care how sexy or rich.
+['hit' 'woman' 'peni' 'pussi' 'care' 'sexi' 'rich']
+[0 0 0 0 0 0 0]
+Message may not be hatespeech
+
+
+91: incorrect
+Thats exactly how it be for niggas getting money and bitches.
+['that' 'exactli' 'nigga' 'get' 'money' 'bitch']
+[0 0 0 0 0 1]
+Message may not be hatespeech
+
+
+
+94. incorrect
+Beat my pussy up like i snitched on you and you had to serve time in a state correctional facility for 5 years..
+['beat' 'pussi' 'like' 'snitch' 'serv' 'time' 'state' 'correct' 'facil'
+ 'year']
+[0 0 0 0 0 1 0 0 0 0]
+Message may not be hatespeech
+
+
+98. incorrect
+alexandra daddario is famous for her humongous boobs and beautiful blue eyes.
+['alexandra' 'daddario' 'famou' 'humong' 'boob' 'beauti' 'blue' 'eye']
+[0 0 0 0 0 0 0 0]
+Message may not be hatespeech
+
+
+100. incorrect
+69 is the best position a man wants to do with her girl.
+['best' 'posit' 'man' 'want' 'girl']
+[0 0 0 0 0]
+Message may not be hatespeech
